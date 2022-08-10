@@ -1,0 +1,5 @@
+student NAME       -->    age
+JYOTI SINGH        -->    20
+Skashi pagal       -->    80
+Abhijeet singh     -->    18
+Roshni singh       -->    20
